@@ -12,6 +12,12 @@ Create .env file with:
 
 Suports postgres and (maybe) sqlite.
 
+## Create Database
+
+    rake db:create
+
+Check other usefull tasks with `rake -T`
+
 ## Start
 
     rackup
